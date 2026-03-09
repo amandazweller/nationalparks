@@ -92,3 +92,5 @@ Each row represents a single park unit.
 
 ---
 
+## Other Resources 
+**For more information on how I produced this dataset please visit https://amandazweller.github.io/stat386-portfolio/projects/data-acquisition.html**
